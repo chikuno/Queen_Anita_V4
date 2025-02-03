@@ -4,7 +4,7 @@
   "description": "A powerful Multi-Device WhatsApp Bot featuring various utilities and media tools.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --name Queen_Anita_V4 --env PORT=4006",
+    "start": "pm2 start index.js",
     "stop": "pm2 stop Queen_Anita-V4",
     "restart": "pm2 restart Queen_Anita-V4"
   },
