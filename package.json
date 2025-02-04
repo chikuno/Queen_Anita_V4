@@ -7,7 +7,7 @@
     "start": "node index.js",
     "stop": "pm2 stop Bot-1",
     "restart": "pm2 restart Bot-1", 
-    "build": "pm2 start index.js --name Bot-1 --env PORT=4008" 
+    "build": "pm2 start index.js --name Bot-1 --env PORT=4000" 
   },
   "author": "David Cyril",
   "license": "MIT",
